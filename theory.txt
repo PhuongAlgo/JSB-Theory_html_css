@@ -1,0 +1,22 @@
+-Mô hình client - server.
+-VScode: + Live server
+	+ Path intellisense
+	+html to css autocompletion
+	+theme
+
+
+-Html: +là ngôn ngữ gồm các cặp thẻ đóng và mở -> để tạo bố cụ của một website.
+	+Câu trúc cơ bản của một website.
+	+Các thẻ cơ bản: h1->h6,p,a,img, ul li , ol li, audio control, div, form, input, select option.
+	+Nested tag
+	+Phân loại thẻ inline, block
+	+Box modal
+-Css:
+	+devTool.
+	+Các cách chọn thẻ để css: name tag,class, id
+	+Một số thuộc tính css: color, font-size,margin,padding,border,width,height,
+	+Thay đổi font chữ dùng font-family cùng với google font.
+	
+	
+	
+	
